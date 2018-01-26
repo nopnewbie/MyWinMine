@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MineBlockData.cpp" />
     <ClCompile Include="MineWnd.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
@@ -133,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseClass.hpp" />
+    <ClInclude Include="MineBlockData.h" />
     <ClInclude Include="MineConfiguration.h" />
     <ClInclude Include="MineWnd.h" />
     <ClInclude Include="resource.h" />
